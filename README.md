@@ -73,3 +73,5 @@ Leaderboard Service
 ✅ 快照机制 _cachedLeaderboard 支持高性能只读访问；
 
 ✅ 并行更新排名优化刷新性能。
+
+单元测试
