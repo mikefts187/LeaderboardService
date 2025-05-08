@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leaderboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8516c7283432b48aa84593a1412d68e508b6e27b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leaderboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leaderboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

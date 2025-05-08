@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "Leaderboard.Controllers.LeaderboardController",
+    "Method": "GetByRank",
+    "RelativePath": "Leaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "end",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Leaderboard.Models.LeaderboardResponse, Leaderboard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Leaderboard.Controllers.LeaderboardController",
+    "Method": "GetCustomerWithNeighbors",
+    "RelativePath": "Leaderboard/{customerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "high",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "low",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Leaderboard.Models.NeighborsResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Leaderboard.Controllers.LeaderboardController",
+    "Method": "UpdateScore",
+    "RelativePath": "Leaderboard/customer/{customerid}/score/{score}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "score",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Decimal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

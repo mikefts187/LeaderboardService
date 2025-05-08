@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\",
+  "WorkspaceRootPath": "D:\\01workspace\\LeaderboardService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\services\\leaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:services\\leaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\models\\neighborsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:models\\neighborsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\models\\leaderboardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:models\\leaderboardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\leaderboardservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:leaderboardservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\services\\leaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:services\\leaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\services\\ileaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\models\\neighborsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:models\\neighborsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\models\\leaderboardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:models\\leaderboardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\leaderboardservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:leaderboardservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\services\\ileaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:services\\ileaderboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|c:\\users\\administrator\\downloads\\leaderboardservice1\\leaderboardservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|d:\\01workspace\\leaderboardservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335437DE-D8EC-4704-9B38-3360F7B9A68F}|Leaderboard.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +58,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-08T08:17:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LeaderboardService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Services\\LeaderboardService.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Services\\LeaderboardService.cs",
               "RelativeDocumentMoniker": "Services\\LeaderboardService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Services\\LeaderboardService.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Services\\LeaderboardService.cs",
               "RelativeToolTip": "Services\\LeaderboardService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAIAwwGkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T05:05:01.696Z",
               "EditorCaption": ""
@@ -68,34 +85,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LeaderboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Controllers\\LeaderboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LeaderboardController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Controllers\\LeaderboardController.cs",
-              "RelativeToolTip": "Controllers\\LeaderboardController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:03:36.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ILeaderboardService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Services\\ILeaderboardService.cs",
-              "RelativeDocumentMoniker": "Services\\ILeaderboardService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Services\\ILeaderboardService.cs",
-              "RelativeToolTip": "Services\\ILeaderboardService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:04:49.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\appsettings.json",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\appsettings.json",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -103,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "LeaderboardService.http",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\LeaderboardService.http",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\LeaderboardService.http",
               "RelativeDocumentMoniker": "LeaderboardService.http",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\LeaderboardService.http",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\LeaderboardService.http",
               "RelativeToolTip": "LeaderboardService.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -115,49 +108,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NeighborsResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\NeighborsResponse.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Models\\NeighborsResponse.cs",
               "RelativeDocumentMoniker": "Models\\NeighborsResponse.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\NeighborsResponse.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Models\\NeighborsResponse.cs",
               "RelativeToolTip": "Models\\NeighborsResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:04:29.222Z",
+              "WhenOpened": "2025-05-05T05:04:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:07:03.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LeaderboardResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\LeaderboardResponse.cs",
-              "RelativeDocumentMoniker": "Models\\LeaderboardResponse.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\LeaderboardResponse.cs",
-              "RelativeToolTip": "Models\\LeaderboardResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaderboardController.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "Controllers\\LeaderboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:04:20.591Z",
+              "WhenOpened": "2025-05-05T05:03:36.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ILeaderboardService.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Services\\ILeaderboardService.cs",
+              "RelativeDocumentMoniker": "Services\\ILeaderboardService.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Services\\ILeaderboardService.cs",
+              "RelativeToolTip": "Services\\ILeaderboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T05:07:03.051Z"
+              "WhenOpened": "2025-05-05T05:04:49.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "LeaderboardResponse.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Models\\LeaderboardResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LeaderboardResponse.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Models\\LeaderboardResponse.cs",
+              "RelativeToolTip": "Models\\LeaderboardResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:04:20.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\Customer.cs",
+              "DocumentMoniker": "D:\\01workspace\\LeaderboardService\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Models\\Customer.cs",
+              "ToolTip": "D:\\01workspace\\LeaderboardService\\Models\\Customer.cs",
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

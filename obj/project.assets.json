@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Leaderboard.csproj",
+      "projectUniqueName": "D:\\01workspace\\LeaderboardService\\Leaderboard.csproj",
       "projectName": "Leaderboard",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\Leaderboard.csproj",
+      "projectPath": "D:\\01workspace\\LeaderboardService\\Leaderboard.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\LeaderboardService1\\LeaderboardService\\obj\\",
+      "outputPath": "D:\\01workspace\\LeaderboardService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
